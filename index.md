@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to CUTE AMY Pages
 
 You can use the [editor on GitHub](https://github.com/yachichang/40309016yachi/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
